@@ -6,3 +6,7 @@
 - 201732431 박정웅
 ## Youtube 업로드 주소
 > URL
+
+## 필요한 라이브러리
+- Json jar (JParse 사용)
+- J connector (JDBC연동)
