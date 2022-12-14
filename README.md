@@ -1,4 +1,4 @@
-# Nextwork_chat
+# 네트워크 팀프로젝트 채팅앱 구현하기
 ## Master branch에 코드 업로드
 
 - 202135502 강민준
