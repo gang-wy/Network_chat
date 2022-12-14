@@ -8,5 +8,5 @@
 > URL
 
 ## 필요한 라이브러리
-- Json jar (JParse 사용)
+- Json jar (Json Parser 사용)
 - J connector (JDBC연동)
